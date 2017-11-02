@@ -101,7 +101,7 @@ echo'{
           "elements":[
             {
               "title":"📣 THÔNG BÁO",
-              "subtitle":"Bạn đã rời khỏi hàng chờ ! Hãy gõ \'Start\' để quay lại hàng chờ"
+              "subtitle":"Bạn đã rời khỏi hàng chờ ! Hãy gõ \'Chat\' để quay lại hàng chờ"
             }
           ]
         }
